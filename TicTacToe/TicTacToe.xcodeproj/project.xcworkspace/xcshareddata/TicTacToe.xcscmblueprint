@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA7B528F508EC5E1141AD3A449C7B674426B8132",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EA7B528F508EC5E1141AD3A449C7B674426B8132" : 9223372036854775807,
+    "7032AF6D6DFAD3F555475CDA1CA4136412F5B55A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5940DD39-B594-4B20-88F9-F73B3808DCEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EA7B528F508EC5E1141AD3A449C7B674426B8132" : "mpcs51030-2017-winter-assignment-5-giannich\/",
+    "7032AF6D6DFAD3F555475CDA1CA4136412F5B55A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TicTacToe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TicTacToe\/TicTacToe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/uchicago-mobi\/mpcs51030-2017-winter-assignment-5-gglotze.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7032AF6D6DFAD3F555475CDA1CA4136412F5B55A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/uchicago-mobi\/mpcs51030-2017-winter-assignment-5-giannich.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA7B528F508EC5E1141AD3A449C7B674426B8132"
+    }
+  ]
+}
